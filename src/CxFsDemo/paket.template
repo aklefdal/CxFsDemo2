@@ -1,0 +1,25 @@
+type project
+title
+    CxFsDemo
+owners
+    Alf Kåre Lefdal
+authors 
+    Alf Kåre Lefdal
+projectUrl
+    https://github.com/aklefdal/CxFsDemo
+iconUrl
+    https://raw.githubusercontent.com/aklefdal/CxFsDemo/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/aklefdal/CxFsDemo/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    fsharp cx
+summary
+    Cx F# Demo
+description
+    Description not set
+
+
